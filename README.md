@@ -24,4 +24,6 @@ This is the repository for the Julia versions of the Quantum Game Theory Simulat
 10. https://www.amazon.in/Quantum-Computation-Information-10th-Anniversary/dp/1107002176
 
 11. https://arxiv.org/abs/1512.06808
+
+12. https://github.com/indrag49/QGameTheory
 ---
